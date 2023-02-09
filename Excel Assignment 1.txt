@@ -1,0 +1,30 @@
+Excel Assignment 1
+
+
+1. What do you mean by cells in an excel sheet?
+Ans. Cell is an object of Excel worksheets. Whenever we open Excel, the Excel worksheet contains cells to store the information
+	in them. We enter content and our data into these cells. Cells are the building blocks of the Excel worksheet. A cell is a
+	rectangular-shaped box. It is a small unit of the Excel spreadsheet. There are around 17 billion cells in an Excel 
+	worksheet, which are united together in horizontal and vertical lines. An Excel worksheet contains cells in rows and columns. 
+	Rows are labeled as numbers and columns as alphabets.
+
+2. How can you restrict someone from copying a cell from your worksheet?
+Ans. In order to protect our worksheet from getting copied, we need to go to Menu bar> Review> Protect sheet> Password. 
+	By entering password, we can secure our worksheet from getting copied by others.
+
+3. How to move or copy the worksheet into another workbook?
+Ans. To copy or move the worksheet into another workbook we have to select the content of the worksheet first by dragging the 
+	mouse and selecting the desired rows and columns. We can do the same using Ctrl+ arrow keys. Once selected, press right 
+	click on the mouse and click Copy. Select the destination in another workbook and then right click and Paste.
+
+4. Which key is used as a shortcut for opening a new window document?
+Ans. The shortcut for opening a new window document is Ctrl + N.
+
+5. What are the things that we can notice after opening the Excel interface?
+Ans. When we open the Excel interface we see the spreadsheets composed of rows and columns having cells. Then on the top we
+	see the menu such as File, Home, Insert, Page layout, Formulas, Data, Review, View, Automate, Developer, Help etc. 
+
+6. When to use a relative cell reference in excel?
+Ans. In Excel, relative cell reference is set by default. Whenever we copy formula from one cell to another, the formula changes
+	according to the new cell reference. This is really helpful when we want to write one formula and wants that to be 
+	adjusted according to the remaining columns or rows. 
