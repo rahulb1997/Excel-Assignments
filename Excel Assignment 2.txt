@@ -1,0 +1,50 @@
+Excel Assignment 2
+
+1. What does the dollar($) sign do?
+Ans. The dollar sign tells Excel whether to change or not to change the reference when the formula is copied to other cells. It
+	is used to denote absolute cell reference. When dollar($) sign is put in front of any cell in a formula, it ensures that 
+	that cell is locked and will be present in all the formulas when copied. 
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Ans. To change the Reference from Relative to Absolute (or Mixed) we have to use dollar($) sign in front of the cell where we 
+	want this change to happen. The cell where the dollar($) sign is put will have the absolute reference.
+
+3. Explain the order of operations in excel?
+Ans. In general, Excel's order of operation follows the acronym PEMDAS (Parentheses, Exponents, Multiplication, Division, 
+	Addition, Subtraction). It's especially important to follow the order of operations when creating a formula otherwise Excel 
+	won't calculate the results accurately. If a formula contains operators with the same precedence then Excel evaluates the 
+	operators from left to right. 
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntax for any of two?
+Ans. According to me the top 5 functions in Excel for data analysis would be if, sumifs, countifs, trim and vlookup.
+	(a) The syntax for vlookup is: 
+	=VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to 
+	return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE)
+	(b) The syntax for sumifs is: 
+	=SUMIFS(sum_range, criteria_range1, criteria1,...)
+
+5. When would you use the subtotal function?
+Ans. The SUBTOTAL function is designed for columns of data, or vertical ranges. It is not designed for rows of data, or 
+	horizontal ranges. The SUBTOTAL function in Excel allows users to create groups and then perform various other Excel 
+	functions such as SUM, COUNT, AVERAGE, PRODUCT, MAX, etc. Thus, the SUBTOTAL function in Excel helps in analyzing the 
+	data provided.
+
+6. What is the syntax of the vlookup function? Explain the terms in it?
+Ans. The syntax for vlookup is: 
+	=VLOOKUP(What we want to look up, where we want to look for it, the column number in the range containing the value to 
+	return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE)
+
+	There are four pieces of information that we will need in order to build the VLOOKUP syntax:
+
+	1. The value we want to look up, also called the lookup value.
+
+	2. The range where the lookup value is located. Remember that the lookup value should always be in the first column in 
+	the range for VLOOKUP to work correctly. For example, if our lookup value is in cell C2 then our range should start 
+	with C.
+
+	3. The column number in the range that contains the return value. For example, if we specify B2:D11 as the range, we 
+	should count B as the first column, C as the second, and so on.
+
+	4. Optionally, we can specify TRUE if we want an approximate match or FALSE if we want an exact match of the return 
+	value. If we don't specify anything, the default value will always be TRUE or approximate match.
+
