@@ -156,7 +156,7 @@ Ans. Following are the applications of Excel in the industry:
 
 3. On the ribbon, make a new tab. Add some different groups, insert commands in the groups and name them according to their 
 	commands added. Copy and paste the screenshot of the steps you followed.
-Ans. 
+Ans. Screenshot is pasted in the same folder
 
 
 4. Make a list of different shortcut keys that are only connected to formatting with their functions.
@@ -175,4 +175,5 @@ Ans. The following points distinguishes Excel from other analytical tools:
 	-It can help you understand the meaning of many operations before further learning other tools (such as Python and R).
 	
 6. Create a table and add a custom header and footer to your table.
-Ans. 
+Ans. Excel sheet is in the Folder
+
