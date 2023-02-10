@@ -1,0 +1,178 @@
+Excel Assignment 6
+
+1. What are the various elements of the Excel interface? Describe how they're used.
+Ans. The various elements of Excel interface are: 
+	1. Quick Access Toolbar
+	2. File Tab
+	3. Title Bar
+	4. Control Buttons
+	5. Menu Bar
+	6. Ribbon/Toolbar
+	7. Dialog Box Launcher
+	8. Name Box
+	9. Formula Bar
+	10. Scroll Bars
+	11. Spreadsheet Area
+	12. Leaf Bar
+	13. Column Bar
+	14. Row Bar Cells
+	15. Cells
+	16. Status Bar
+	17. View Buttons
+	18. Zoom control
+
+	1. Quick Access Toolbar
+	This toolbar is located in the upper left corner of the screen. Its objective is to show the most frequently used Excel 
+	commands. We can customize this toolbar based on our preferred commands.
+
+	2. File Tab
+	Excel 2007's Office button has been replaced by the File tab. We can click it to check the Backstage view, where we can 
+	open or save files, create new sheets, print sheets, and perform other file-related operations.
+
+	3. Title Bar
+	The title bar of the spreadsheet is at the top of the window. It displays the active document's name.
+
+	4. Control Buttons
+	Control buttons are the symbols that are present in the upper-right side of the window, enabling us to change the labels,
+	minimize, maximize, share, and close the sheet.
+
+	5. Menu Bar
+	Under the diskette or save icon or the excel icon (this will depend on the version of the program), labels or bars which 
+	enable changing the sheet which is shown. These are the menu bar and contain a File, Insert, Page Layout, Formulas, Data, 
+	Review, View, Help, and a Search Bar with a light bulb icon. These menus are divided into subcategories which simplify 
+	the distribution of information and analysis of calculations.
+
+	6. Ribbon/Toolbar
+	Each menu bar contains several different elements. On the selection of the menu, a sequence of command options/icons will
+	show on a ribbon. For example, if we select the "Home" tab, we will see cut, copy, paste, bold, italic, underline, and more 
+	commands. In the same way; we can click on the "Insert" tab, we will see tables, illustrations, additional, recommended 
+	graphics, graphics maps, among others. On the other hand, if we select the "Formulas" option. Insert functions, auto sum 
+	recently used, finances, logic, text, time, date, etc.
+
+	Ribbon/Toolbar is a set of commands organized into three sections.
+
+	Tabs
+	They are the Ribbon's top part, and they include groups of related commands. Ribbon tabs include Home, Insert, Page Layout, 
+	Formula, Data.
+	Groups
+	They organize related commands; the name of each group is displayed below the Ribbon. For example, a set of commands 
+	related to fonts or a group of commands related to alignment, etc.
+	Commands
+	They appear within each group, as previously stated.
+	
+	7. Dialog Box Launcher
+	Dialog box launcher is a very little down arrow that is present in the lower-right corner of a command group on the Ribbon. 
+	By clicking on this arrow, we can explore more options related to the concerned group.
+
+	8. Name box
+	Show the location of the active cell, row, or column. We have the option of selecting multiple options.
+
+	9. Formula Bar
+	Formula bar permits us to observe, insert or edit the information/formula entered in the active cell.
+
+	10. Scrollbars
+	Scrollbars are the tools that enable us to move the document's vertical and horizontal views. We can activate this by 
+	clicking on the platform's internal bar or the arrows we have on the sides. Additionally, we can use the mouse wheel in 
+	order to automatically scroll up or down: or use the directional keys.
+
+	11. Spreadsheet Area
+	It is the place where we enter our data. It includes all the rows, cells, columns, and built-in data in the spreadsheet. 
+	We can use shortcuts to perform toolbar activities or formulas of arithmetic operations (add, subtract, multiply, etc.). 
+	The insertion point is the blinking vertical bar known as the "cursor." It specifies the insertion location of the typing.
+
+	12. Leaf Bar
+	Leaf bar is present at the bottom of the spreadsheet, which says sheet1 is shown. This sheet bar describes the spreadsheet 
+	which is currently being worked on. Using this, we can alternate a number of sheets or add a new one as per our convenience.
+
+	13. Columns Bar
+	Columns are a vertically ordered series of boxes across the full sheet. This column bar is located below the formula bar.
+	 The letters of the alphabet are used to label the columns. Begin with the letter A to Z, and then after Z, it will 
+	continue as AA, AB, and so on. The number of columns that can be used is limited to 16,384.
+
+	14. Rows Bar
+	The row bar is the left part of the sheet where a sequence of numbers is expressed. Begin with number one (1), and further 
+	rows will be added as we move the pointer down. There are a total of 1,048,576 rows available.
+
+	15. Cells
+	Cells are those parallelepipeds that divide the spreadsheet into many pieces, separating rows and columns. A spreadsheet's 
+	first cell is represented by the first letter of the alphabet and the number one (A1).
+
+	16. Status Bar
+	The status bar is present at the bottom of the window that displays critical information. It also indicates whether something 
+	is incorrect or whether the document is ready to be printed or delivered.
+
+	This shows the result of the selected digits such as sum, average, count, maximum, minimum, etc.
+
+	By right-clicking on the status bar, we can configure the status bar. Any command from the specified list can be added or
+	removed.
+
+	17. View Buttons
+	View buttons are a set of three buttons arranged at the left of the Zoom control, close the screen's right-bottom corner. 
+	We can see three different kinds of sheet views in Excel using this method.
+
+	Normal View: - Normal view displays the Excel page in normal view.
+	Page Layout View: - The Page Layout view shows the precise layout of an Excel page it will be printed.
+	Page Break View: - This displays page break preview before printing.
+
+	18. Zoom Control
+	The zoom control is present at the lower-right side of the window. It enables us to ZOOM-IN or ZOOM-OUT a specific area 
+	of the spreadsheet. It is represented by magnifying icons with the symbols of maximizing (+) or minimizing (-).
+
+2. Write down the various applications of Excel in the industry.
+Ans. Following are the applications of Excel in the industry: 
+	
+	-Data Entry and Storage
+	Excel is a great option to store lots of data. However, the size of the excel file is limited based on the device's 
+	computing capacity and memory availability. Generally, excel worksheets can have 1,048,576 rows and 16,384 columns in a 
+	table form. Once the data is organized in an excel file, we can use it for various purposes. Using multiple tools and 
+	formulae, we can implement numerous operations on the data.
+	
+	-Performing Calculations
+	MS Excel has plenty of in-built functions or formulae that can be used to work with the data. There are more than 450
+	functions in excel that are categorized accordingly. Some most common functions in an excel function library include 
+	financial, logical, text, date & time, math, and trigonometry. We can use the necessary functions or formulae on any row,
+	column, and cell within the spreadsheet. We can also create our custom formulae with some programming skills or using 
+	macros in addition to the existing functions. So, we do not need to do the entire task again and again.
+	
+	-Data Analysis and Interpretation
+	Data analysis is an essential part of MS excel. Analyzing the data helps in making decisions for improvements. When the 
+	data has been updated in spreadsheets, we can use formulae and pivot tables to effectively analyze the data and 
+	interpret the numbers. Using these features, we can consolidate the data and easily focus on essential segments from 
+	large data sets.
+
+	-Reporting and Visualizations
+	Charts, graphs, or other visualizations can make any simple report more attractive and meaningful. It is always a better 
+	way to use different charts to display the results in a summarized form, and that too with more attraction. A simple 
+	chart can sometimes cover and express the desired results than the massive table with relatively long data ranges. Since 
+	visualizations can be helpful, MS excel provides a wide range of in-built chart templates that we can easily use without 
+	many efforts.
+
+	-Accounting and Budgeting
+	Account and budget managers most often use MS excel to maintain customer records. It is an easy way to organize the data 
+	and keep the data up to date with simple editing tools of excel software. It is one of the main tasks of account managers
+	to keep records because it helps them create a strong relationship with their clients. This eventually enables accounting
+	or budgeting managers to earn customers' loyalty, which further generates repeat sales. Furthermore, they can easily find
+	the details from excel and also share with others easily when necessary.
+
+3. On the ribbon, make a new tab. Add some different groups, insert commands in the groups and name them according to their 
+	commands added. Copy and paste the screenshot of the steps you followed.
+Ans. 
+
+
+4. Make a list of different shortcut keys that are only connected to formatting with their functions.
+Ans. Different shortcut keys for formatting are:
+	CTRL + B: Applies bold font formatting to headers
+	ALT + H + B + A: Applies borders to the cells
+	ALT + H + B + T: Gives an outline border to the dataset
+	ALT + H + O + W: Autofits column widths
+	CTRL + 1: Opens Format Cells dialog box
+
+5. What distinguishes Excel from other analytical tools?
+Ans. The following points distinguishes Excel from other analytical tools:
+	-It’s easy to get started with Excel.
+	-The learning resources are very rich.
+	-You can do a lot of things with Excel: modeling, visualization, reports, dynamic charts, etc.
+	-It can help you understand the meaning of many operations before further learning other tools (such as Python and R).
+	
+6. Create a table and add a custom header and footer to your table.
+Ans. 
