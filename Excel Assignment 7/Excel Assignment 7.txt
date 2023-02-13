@@ -1,0 +1,49 @@
+Excel Assignment 7
+
+Q1. Using Insert Function, give examples of any function available in the different dropdowns present in the function library.
+	For example AutoSum, Recently Used, Text, Date & Time, etc.
+Ans. In Date & Time there is a function DATE. When we select DATE, we get a dialog box which requires three inputs: Year, Month
+	and Day. When we enter these 3 inputs it converts input into Date. 
+	
+	In Lookup & Reference there is a function HLOOKUP. When we select HLOOKUP, we get a dialog box which requires four inputs: 
+	Lookup_value, Table_array, Row_index_num and Range_lookup. It looks for a value in the top row of a table or array of values
+	returns the value in the same column from the row we specify.
+
+	In Text there is a function CONCAT. When we select CONCAT, we get a dialog box which requires atleast one input. When we 
+	enter any input, it converts the input into text and concatenate that into the cell.
+
+	In Text there is a function FIND. When we select FIND, we get a dialog box which requires three inputs: Find_text, 
+	Within_text and Start_num. It returns the starting point of one text string within another text string and it is case-sensitive.
+
+Q2. What are the different ways you can select columns and rows?
+Ans. We can select rows and columns in the following 3 ways:
+	1. Select the letter at the top to select the entire column. Or click on any cell in the column and then press Ctrl + Space.
+	2. Select the row number to select the entire row. Or click on any cell in the row and then press Shift + Space.
+	3. To select non-adjacent rows or columns, hold Ctrl and select the row or column numbers.
+
+Q3. What is AutoFit and why do we use it?
+Ans. Excel's AutoFit feature is designed to automatically resize cells in a worksheet to accommodate different sized data 
+	without having to manually change the column width and row height. We use it adjust the width of the cells. When we enter
+	long data in a cell, by default Excel shows few characters of that data. Rest is hidden. To view the entire data we will 
+	have to click on each cell. Autofit makes it easier for the user by resizing the width of the whole column at one go rather
+	than doing it manually.
+
+Q4. How can you insert new rows and columns into the existing table?
+Ans. We can add a row above or below the cursor position as follows:
+	1. Click where you want in your table to add a row or column and then click the Layout tab (this is the tab next to the 
+	Table Design tab on the ribbon).
+	2. To add rows, click Insert Above or Insert Below and to add columns, click Insert Left or Insert Right.
+
+Q5. How do you hide and unhide columns in excel?
+Ans. To hide a column in Excel:
+	1. Select the column.
+	2. In the Home tab, under Cells group select Format.
+	3. Select Hide & Unhide. 
+	4. Select Hide Columns.
+
+	To unhide a column:
+	1. On the Home tab, in the Editing group, click Find & Select, and then click Go To. In the Reference box, type the reference
+	of the column which is visible as hidden, and then click OK.
+	2. In the Home tab, under Cells group select Format.
+	3. Select Hide & Unhide. 
+	4. Select Unhide Columns.
