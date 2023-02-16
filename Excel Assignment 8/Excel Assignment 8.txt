@@ -1,0 +1,39 @@
+	Excel Assignment 8
+
+Q1. What do you mean by AutoComplete feature in Excel and what are the benefits of using this feature?
+Ans. AutoComplete helps you quickly insert functions and arguments while minimizing typing and syntax errors. The AutoComplete
+	menu shows you available options based on context, and you choose what you want to insert into your formula. Autofill saves
+	users from re-typing information. Minimize user input errors. Typing is prone to errors. Minimizing the need to type 
+	information also minimizes typos.
+
+Q2. Explain working with workbooks and working with cells.
+Ans. A workbook is a file that contains one or more worksheets to help you organize data. You can create a new workbook from a
+	blank workbook or a template. Cells are the boxes we see in the grid of an Excel worksheet. Each cell is 
+	identified on a worksheet by its reference, the column letter and row number that intersect at the cell's location.
+
+Q3. What is fill handle in Excel and why do we use it?
+Ans. Fill Handle is a feature in Excel that enables us to auto-complete a list in a row/column by simply dragging it using your 
+	mouse. When we type a formula in a cell and we want the formula to be copied to the adjacent cells and adjusted according
+ 	to the adjacent rows. Fill handle makes it very easy. We can simply click and drag that formula to the adjacent cells. The
+	formula will be adjusted and copied to the adjacent cells. This saves a lot of time and effort. 
+
+Q4. Give some examples of using the fill handle.
+Ans. Some examples of fill handle are as follows:
+	(a) We can use fill handle in Excel to autocomplete weekday names. It could either be the three alphabets nomenclature 
+	(Mon, Tue…) or the full name (Monday, Tuesday…).
+	(b) We can easily autofill dates using the fill handle in Excel. Any date format that is recognized by Excel can be used 
+	by the fill handle.
+	(c) In case you are using the fill handle to autocomplete dates, additional options become available in the autocomplete 
+	options.
+
+Q5. Describe flash fill and what the different ways to access the flash fill are.
+Ans. Flash Fill automatically fills your data when it senses a pattern. For example, you can use Flash Fill to separate first 
+	and last names from a single column, or combine first and last names from two different columns. To access flash fill we can
+	go to Data > Flash Fill to run it manually, or press Ctrl+E.
+	
+
+Q6. Extract first name and last name from the mail id and then from the address column, extract the city, state, and pin code
+	using the flash fill. Given below is an example of the columns you have to create. Paste the screenshot of what you have 
+	created using the flash fill command.
+	Example: Mail Id, Address, First name, Last name, State, City, Pincode
+Ans. Screenshot is in the Folder
