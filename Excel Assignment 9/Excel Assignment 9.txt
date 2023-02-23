@@ -1,0 +1,94 @@
+Excel Assignment 9
+
+Q1. What are the different margins options and do we adjust the margins of the excel worksheet?
+Ans. Margins are the empty space between the worksheet data and the left, right, top, and bottom edges of the printed page. 
+	To adjust the margins on excel worksheet the following steps are to be followed: 
+	a. Right-click on a sheet tab, and then click Select All Sheets from the shortcut menu.
+	b. On the Page Layout tab, in the Page Setup group, click Margins.
+	c. To use predefined margins, click Normal, Wide, or Narrow.     
+	d. To specify custom page margins, click Custom Margins and then—in the Top, Bottom, Left, and Right boxes—enter the 
+	   margin sizes that you want.
+
+Q2. Set a background for your table created.
+Ans. The photo is shared in the Folder.
+
+Q3. What is freeze panes and why do we use freeze panes? Give examples.
+Ans. The Excel Freeze Panes option allows us to lock our columns and/or rows so that when we scroll down or over to view the
+	rest of our sheet, the column and/or row will remain on the screen.Whenever you work with the large worksheet with a lot 
+	of data, it is difficult to compare data. When you scroll the worksheet horizontally and vertically, the data of above 
+	cells hide with scrolling. In this type of scenario, Excel enables several methods, including Frozen Panes, New Window, 
+	and Split your worksheet.
+	Sometimes, you want some rows or columns always in your worksheet. Here, freeze panes feature help to lock the cells so 
+	that you can see the worksheet however you want. Freeze pane locks the specific row or column and makes them visible for 
+	the entire sheet scrolling.
+
+
+Q4. What are the different features available within the Freeze Panes command?
+Ans. There are three features available within the Freeze Panes command:
+	a. Freeze Pane
+	To freeze only the top row, execute the steps mentioned below:
+	- In the windows group, go to the View tab, and click Freeze Panes.
+	- Click Freeze Top Row.
+
+	b. Freeze Top Row
+	You can freeze only the first column for your worksheet by following these steps:
+	- Go to View tab > Windows group > Freeze First Column.
+	- Select Freeze First Column.
+
+	c. Freeze First Column
+	- To freeze the first column of the worksheet, you do not need to select any particular cell. Navigate to the View tab of
+	  the Excel ribbon directly.
+	- Click on the Freeze Panes dropdown button and select/click the Freeze First Column option here.
+
+Q5. Explain what the different sheet options present in excel are and what they do?
+Ans. We can access various sheet options by using the following ways:
+	1. Ribbon Sheet Options
+	2. Right-click Sheet Options
+	
+	1.Ribbon Sheet Options
+	Excel has all the basic and advanced options present on its ribbon. Likewise, some quick sheet options are also present 
+	on the Excel ribbon and can be accessed by going to Page Layout > Sheet Options. It mainly has four toggle options: two 
+	for Gridlines and two for Headings, and they can be turned on and off by selecting and deselecting the checkboxes.
+	
+	Gridlines:
+	View: This option allows users to show/ hide gridlines within the active worksheet. Turning off this option removes the 
+	gridlines from the sheet and displays a blank Excel sheet.
+	Print: This option allows users to show/ hide gridlines on an Excel document that will be printed on paper.
+	
+	Headings:
+	View: This option allows users to show/ hide headings within the active worksheet. Turning off this option removes the 
+	headings from the current sheet's headers and footers.
+	Print: This option allows users to show/ hide headings on an Excel document, which is to be printed on paper.
+
+	Sheet Options in Dialogue Box under Page Setup
+	After clicking on the 'More' option (the arrow icon on the corner of the Sheet Options group on the ribbon), we get 
+	various sheet options. These sheet options are mainly used to adjust preferences for printing purposes. For instance, 
+	when we print Excel documents, gridlines are not usually printed. We can adjust preferences from sheet options to 
+	include the gridlines to print and manage other sheet options.
+
+	Print Area: We can select the print area using this option. We can drag and select the area or range of cells by using 
+	the mouse.
+	
+	Print Titles:
+	Rows to repeat at top: This option helps us select the title to display at the top for corresponding rows.
+	Columns to repeat at left: This option helps us select the title to display on the left side for columns.
+
+	Print:
+	Gridlines: This option can be enabled or disabled by selecting/ deselecting the checkbox. It helps us decide whether to 
+	show gridlines or not on printed Excel documents.
+	Black & White: Like the gridlines, we can select this checkbox to print the current Excel document in black and white 
+	color, even if we have the color printer attached.
+	Draft Quality: Selecting the checkbox associated with the draft quality allows us to print the Excel document using the 
+	printer's draft-quality settings.
+	Rows & Column Heading: We can select this option to display rows and columns headings to the printed Excel documents.
+
+	Page Order:
+	Down, then Over: This option allows users to print the down page first and then the right pages.
+	Over, then Down: This option allows users to print the right pages first and then the down pages.
+
+	Print: Clicking on this option gives a command to the device to print the current Excel document using the default 
+	printer.
+	Print Preview: This option displays the preview of the Excel document that will be printed on paper.
+	Options: This option allows users to choose layout type (portrait or landscape) and paper mode (A4, A5, etc.) for the 
+	Excel document to be printed.
+
